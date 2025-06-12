@@ -1,0 +1,8 @@
+.row div{
+    background-color: red;
+}
+
+.container{
+    border: solid 2px black;
+    margin: 10px;
+}
