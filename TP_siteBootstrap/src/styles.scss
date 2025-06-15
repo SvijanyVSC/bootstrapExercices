@@ -1,0 +1,8 @@
+// 1. Importer les fonctions Bootstrap (optionnel mais recommandé)
+@import "../node_modules/bootstrap/scss/functions";
+
+// 2. Redéfinir les variables AVANT d'importer Bootstrap
+$primary: #e2bc74;
+
+// 3. Importer le reste de Bootstrap
+@import "../node_modules/bootstrap/scss/bootstrap";
